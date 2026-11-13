@@ -1,16 +1,52 @@
-## Hi there 👋
 
-<!--
-**Simrandeep-kaur97/Simrandeep-kaur97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨ Hey, I'm Simran!
 
-Here are some ideas to get you started:
+### 💜 Aspiring Developer | Creative Thinker | Tech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my little corner of GitHub! 🌷
+
+I'm a student passionate about technology, programming and creating beautiful digital experiences.
+
+## 🌸 About Me
+
+- 🎓 Computer Science Student
+- 💻 Learning Web Development
+- 🎨 Interested in UI/UX Design
+- 🤖 Exploring Artificial Intelligence
+- 🚀 Always learning something new
+
+## 🛠️ My Skills
+
+<p>
+  HTML • CSS • JavaScript • Java • Python • AI & ML
+</p>
+
+## 💻 My Projects
+
+### 01. Personal Portfolio
+A creative website showcasing my skills and journey.
+
+### 02. Smart Calculator
+A simple and interactive calculator.
+
+### 03. Digital Diary
+A personal space for organizing daily thoughts and notes.
+
+## 🎯 My Goals
+
+- Build creative websites.
+- Improve my programming skills.
+- Learn new technologies.
+- Create projects that solve real problems.
+
+## 🌐 Connect With Me
+
+- GitHub: [My Profile](https://github.com/)
+- Email: your-email@example.com
+
+---
+
+### ✨ "Dream. Design. Develop."
+
+*Thanks for visiting my profile! ♡*
+
